@@ -3,4 +3,8 @@
 | 小可爱 |  18  | 吃可爱多 |
 | 雨战雨 |  18  | 喝雨水   |
 - feature-C
-- feature-D1
+<<<<<<< HEAD
+- feature-D2
+=======
+- xiugai
+>>>>>>> cd38448f154efc4ae3bf77e12458c8bdeb0e4e73
